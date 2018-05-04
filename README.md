@@ -1,2 +1,1 @@
-# NorseAssets
-Norse Assets
+# Norse Game Assets
